@@ -112,7 +112,5 @@ spring.rest.template.connect-timeout=30s
 
 ---
 
-## Licença
 
-MIT (ou conforme sua escolha)
 
